@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Shanmuganathan 
 # 💫 About Me:
 🔭 I’m currently working on Skill development and improvement.<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with seeking assistance with software development.<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about programming and software development<br>⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs!
 
@@ -22,8 +22,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shan-1999&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shan-1999&icon=5&color=6)](https://visitcount.itsvg.in)
@@ -32,4 +30,4 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Paypal.me/shanmuganathansn26) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
