@@ -26,7 +26,7 @@ public class Shan extends SoftwareEngineer {
     String role        = "Backend Engineer @ Sundaram Infotech Solutions";
     String education   = "MCA Graduate";
     String location    = "Chennai, India 🇮🇳";
-    String email       = "shanmuganathans1999@outlook.com";
+    String email       = "shanmuganathans1999@gmail.com";
 
     String[] coreStack  = { "Spring Boot", "Java", "SQL", "PostgreSQL" };
     String[] aiInterest = { "LLMs", "AI Agents", "Document AI", "Workflow Automation" };
@@ -53,7 +53,6 @@ public class Shan extends SoftwareEngineer {
 
 - 🤖 **AI Bug Bounty Agent** — Automated recon + vulnerability detection (SQLi, XSS, SSRF, IDOR, RCE)
 - 💰 **AI Money Management Agent** — SMS-based spending tracker + personal finance advisor
-- 🗺️ **AI Tour Guide Agent** — Smart itinerary planner with flight/hotel booking & Maps integration
 - 🤖 **TARS-Inspired Personal Robot** — Raspberry Pi + voice recognition + smart home control
 
 ---
@@ -67,12 +66,6 @@ public class Shan extends SoftwareEngineer {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -117,7 +110,7 @@ public class Shan extends SoftwareEngineer {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmuganathans1999@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmuganathans1999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shan)
 
 > *"Code is the new language of creation — I'm here to build things that matter."*
