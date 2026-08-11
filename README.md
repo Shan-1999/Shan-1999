@@ -83,18 +83,6 @@ public class Shan extends SoftwareEngineer {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shan&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shan&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 💡 Interests Beyond Code
 
